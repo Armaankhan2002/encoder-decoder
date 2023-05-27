@@ -9,14 +9,14 @@ root.geometry('800x800')
 root.resizable(0,0)
 
 #title of the window
-root.title("pythonHunt - Message Encode and Decode")
+root.title("Galgotiya university - Message Encode and Decode")
 
 
 
 #label
 
 Label(root, text ='ENCODE DECODE', font = 'arial 20 bold').pack()
-Label(root, text ='PythonHunt', font = 'arial 20 bold').pack(side =BOTTOM)
+Label(root, text ='Galgotiya university', font = 'arial 20 bold').pack(side =BOTTOM)
 
 
 #define variables
